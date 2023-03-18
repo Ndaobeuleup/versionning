@@ -1,0 +1,31 @@
+body {
+    background: linear-gradient(to right, #548296, #4c8a92, #548296);
+    font-family: 'Poppins', sans-serif;
+}
+
+#formulaire {
+    width: 400px;
+    margin: 8vh auto 0 auto;
+    padding: 20px;
+    background-color: whitesmoke;
+    border-radius: 15px;
+    font-size: 12px;
+    background-color: rgb(230, 164, 157);
+}
+
+#formulaire h1 {
+    color: #0f2027;
+    text-align: center;
+}
+
+#formulaire button {
+    padding: 10px;
+    margin-top: 10px;
+    width: auto;
+    color: black;
+    background-color: rgb(23, 117, 16);
+    border: black;
+    border-radius: 5px;
+}
+h1{text-align: center;
+}
